@@ -26,17 +26,15 @@ They are the following:
 
 ## File Descriptions <a name="files"></a>
 
-Data.csv contains lastest edition FIFA 2019 players attributes including age, potential, wage, etc. 
+ebola_2014_2016_clean.csv has countries, dates, and suspected, probable, and confirmed Ebola cases and Ebola deaths as columns.
 
-There is also a notebook available here to showcase all my work related to three three questions.
+ebola_data_db_format.csv has indicators, which are the suspected, probable, and confirmed Ebola cases and Ebola deaths, countries, dates, and values for each indicator.
 
-
+There is also a notebook available here to showcase all of my work related to the three questions.
 
 ## Results<a name="results"></a>
 
 The main findings of the code can be found at the [post](https://medium.com/@u0509421/fifa-19-complete-player-dataset-what-can-we-tell-from-it-f7343fdad020) available.
-
-
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
