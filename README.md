@@ -30,11 +30,11 @@ ebola_2014_2016_clean.csv has countries, dates, and suspected, probable, and con
 
 ebola_data_db_format.csv has indicators, which are the suspected, probable, and confirmed Ebola cases and Ebola deaths, countries, dates, and values for each indicator.
 
-There is also a notebook available here to showcase all of my work related to the three questions.
+There is also a jupyter notebook here that shows all of my work related to the three questions.
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the [post](https://medium.com/@u0509421/fifa-19-complete-player-dataset-what-can-we-tell-from-it-f7343fdad020) available.
+The main findings of the code can be found at this available [post](https://medium.com/@rocketmaninspace/how-did-location-affect-the-spread-of-the-2013-ebola-outbreak-cad9cbceccaa).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
